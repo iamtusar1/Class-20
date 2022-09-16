@@ -1,0 +1,119 @@
+/* headerSection */
+/* topHeader */
+
+.topHeader {
+    background-color: rgb(227, 242, 253);
+}
+.logo {
+    text-align: right;
+}
+.logo img {
+    width: 50px;
+    margin-top: 13px;
+}
+.menu {
+    list-style: none;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+.menu li {
+    display: inline-block;
+    padding: 0px 15px;
+    margin-right: -5px;
+}
+.menu li a {
+    display: block;
+    text-decoration: none;
+    color: rgb(151, 161, 168);
+    padding: 25px 0px;
+    transition: all 0.5s ease 0s;
+}
+.menu li:first-child a {
+    color: rgb(32, 35, 37);
+}
+.menu li a:hover {
+    color: rgb(32, 35, 37);
+}
+.searchBox {
+    width: 105%;
+    margin-top: 16px;
+    padding: 8px;
+}
+.searchBtn {
+    margin-top: 18px;
+}
+
+/* bottomHeader */
+.bottomHeader{
+    margin-top: 40px;
+}
+.breadcrumb {
+    background-color: #e9ecef;
+    padding: 15px;
+    width: 100%;
+    margin-left: 125px;
+    border-radius: 5px;
+}
+.breadcrumb a{
+    text-decoration: none;
+}
+.toast {
+    margin-left: 165px;
+}
+
+/* bannerSection */
+.bannerSection{
+    height: 450px;
+    mar
+}
+.carousel-item img {
+    height: 450px;
+    width: 100% !important;
+}
+
+/* middleSection */
+.contantItem {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.middleSection .alert {
+    width: 80%;
+    margin-left: 136px;
+}
+.progress {
+    margin-left: 136px;
+}
+#accordion {
+    width: 83%;
+}
+.Btn {
+    margin-left: 140px;
+}
+.btn-secondary:last-child {
+    margin-right: 180px;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+    margin-bottom: 50px;
+}
+.bg-light {
+    background-color: #f8f9fa!important;
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.pagination{
+    margin-left: 530px;
+}
+.dropdown{
+    
+margin-left: 200px;
+}
+/* footerSection */
+.footerSection{
+    background-color: #17a2b8;
+    color: #fff;
+}
